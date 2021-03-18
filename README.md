@@ -15,3 +15,4 @@
 3. Release process por environments
 4. Roles and responsabilities for Project Management and coordination: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit
 5. Name releases (versioning)
+6. Emails coontent for releases to clients
