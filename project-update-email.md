@@ -22,10 +22,11 @@ Hello, <>
 Here is the most recent update on the project:
 
 **Latest Updates:**
-- **<Feature Name>**: <Description>
-- **<Feature Name>**: <Description>
-- **<Feature Name>**: <Description>
-- **<Feature Name>**: <Description>
+
+- \<Feature Name\>: \<Description\>
+- \<Feature Name\>: \<Description\>
+- \<Feature Name\>: \<Description\>
+- \<Feature Name\>: \<Description\>
 
 
 **Pending Items:**
@@ -39,9 +40,9 @@ Here is the most recent update on the project:
 
 **Next Release:**
 For the next release on date 05/01/2021 we are planning to deliver:
-- **<Feature Name>**: <Description>
-- **<Feature Name>**: <Description>
-- **<Feature Name>**: <Description>
-- **<Feature Name>**: <Description>
+- \<Feature Name\>: \<Description\>
+- \<Feature Name\>: \<Description\>
+- \<Feature Name\>: \<Description\>
+- \<Feature Name\>: \<Description\>
 
 Thanks!
