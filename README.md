@@ -39,13 +39,11 @@ Here we outline the main activities in a non-necessary sequential order:
 13. Kickoff meeting with the Development Team.
 14. Ensure that all requirements for the full development of the project are in place or scheduled to be in place. 
 
-
 ### 1.2 Project Planning Meeting
 
 - Have a planning meeting when the project start with all the developers with the purpoose of defining every ticket with enouogh information to move forward, including technical specifications and acceptance criteria
 - During this meeting, the Account Manager, Project Manager, QA, and every developer on the team must be present
  
-
 ## 2. Quality Assurance:
 
 ### 2.1. Issues Quality Test:
@@ -55,6 +53,11 @@ Ticket specification is responsabilitye of the Project Manager, QA and Technical
 - If the Issue is estimated to be longer than 2 days, it needs to be splitted.
 - If the Issues doesn't have the specification completed, it needs to be completed.
 - If the Issues doesn't have the technical specification completed, it needs to be completed.
+- If the Issue requires a UI and it doesn't have it 
+
+### 2.2. Test Case
+
+- Use the Wiki to define Business processes that need to be tested. 
 
 
 
