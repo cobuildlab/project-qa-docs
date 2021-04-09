@@ -14,10 +14,11 @@ It must contain if necessary:
 ## Example:
 
 To: <Project Stakeholders> 
-Subject: <Project Name> | Status Update
+  
+Subject: `<Project Name>` | Status Update
 
 
-Hello, <>
+Hello, `<>`
 
 Here is the most recent update on the project:
 
