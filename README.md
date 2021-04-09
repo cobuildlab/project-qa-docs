@@ -17,6 +17,11 @@
 5. Name releases (versioning)
 6. Emails content for releases to clients
 
+# Terms:
+
+## Service Agreement: 
+Is the document agreed with the Customer that defines the scope of a project, it’s milestones and deliverables. This document is produced by the Sales Department and must be handed over to the Product Manager.
+
 
 ## 1. Project
 
@@ -43,6 +48,14 @@ Here we outline the main activities in a non-necessary sequential order:
 
 - Have a planning meeting when the project start with all the developers with the purpoose of defining every ticket with enouogh information to move forward, including technical specifications and acceptance criteria
 - During this meeting, the Account Manager, Project Manager, QA, and every developer on the team must be present
+- At the end planning meeting, the team should have:
+ [ ] **Service Agreement:** in the Project Folder available to every member of the team
+ [ ] **Issues:**  Every Issue in the Kanban board must have: A) Product Specifications, B) Technical Specifications and C) UI Designs (if necessary)
+ [ ] **UI Prototype**
+ 
+### 1.3. Client Feedback Spreadsheet:
+ 
+ TODO: 
  
 ## 2. Quality Assurance:
 
