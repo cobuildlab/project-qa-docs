@@ -63,9 +63,9 @@ Here we outline the main activities in a non-necessary sequential order:
 
 Ticket specification is responsabilitye of the Project Manager, QA and Technical Lead.
 
-- If the Issue is estimated to be longer than 2 days, it needs to be splitted.
-- If the Issues doesn't have the specification completed, it needs to be completed.
-- If the Issues doesn't have the technical specification completed, it needs to be completed.
+- If the Issue is estimated to be longer than 2 days, it needs to be split.
+- If the Issue doesn't have the specification completed, it needs to be completed.
+- If the Issue doesn't have the technical specification completed, it needs to be completed.
 - If the Issue requires a UI and it doesn't have it 
 
 ### 2.2. Test Case
