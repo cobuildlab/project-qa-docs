@@ -12,10 +12,11 @@
 1. Coonstant Education and Training
 1. TMMI
 2. Template for User Stories
-3. Release process por environments
-4. Roles and responsabilities for Project Management and coordination: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit
-5. Name releases (versioning)
-6. Emails content for releases to clients
+3. Template for CLIENT FEEDBACK (Issue tracking)
+4. Release process por environments
+5. Roles and responsabilities for Project Management and coordination: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit
+6. Name releases (versioning)
+7. Emails content for releases to clients
 
 # Terms:
 
