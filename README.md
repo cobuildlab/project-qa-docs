@@ -1,5 +1,7 @@
 # docs
 
+TODO: 
+
 1. Requirement Management: (documentacion de requerimientos, alcance del requerimiento, cambio de alcance).
 1. Coding Conventions: https://github.com/cobuildlab/conventions
 1. Unit Testing, Check lists, Definition of Done
@@ -15,7 +17,7 @@
 3. Template for CLIENT FEEDBACK (Issue tracking)
 4. Release process por environments
 5. Roles and responsabilities for Project Management and coordination: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit
-6. Name releases (versioning)
+6. Name releases (versioning): https://semver.org/
 7. Emails content for releases to clients
 
 # Terms:
