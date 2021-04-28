@@ -25,40 +25,48 @@ TODO:
 ## Service Agreement: 
 Is the document agreed with the Customer that defines the scope of a project, it’s milestones and deliverables. This document is produced by the Sales Department and must be handed over to the Product Manager.
 
+## Execution Plan:
+
 
 ## 1. Project
 
 ### 1.1. Project Management Process
 
-Here we outline the main activities in a non-necessary sequential order:
+Here we outline the main activities when starting a project in a non-necessary sequential order:
 
 1. When a project is started the first step is to assemble the team in a slack dedicated project channel. Project Channel names start with a double hyphen “--”. Example: “--awaken-flow”, “--c2g”
 2. The Project folder must be created under the main “Projects” folder managed by the organization. (Google Drive)
 3. Infrastructure Provisioning: Servers, 8base workspace, hosting, GitHub, slack channel, buddy works, DNS setup, etc
-4. Subscribe Github notifications to Slack Channel
-5. The full scope of the project must be shared with the Development Team to create an Execution Plan if necessary.
-6. The repositories for different pieces of the project must be created on Github and the members of the Development team must be provided with access to them.
-7. Set Fisherman (activity Tracking for developers) for the project’s repositories tracking and standups.
-8. The Kanban has to be set in one of the projects. 
-9. The milestones and deliverables both internal (if exist) and external must be created in the Kanban along with the User Stories.
-10. All User Stories (Issues or Tickets) must be bound to a milestone of the project.
-11. Set the times for the Planning meeting and the daily standups with the development team.
+4. Set Github Kanban with columns and labels
+5. Subscribe Github notifications to Slack Channel
+6. The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and deliverables.
+7. Create Milestones in Github Project Kanban
+8. Provide access to the team members to the Github repositiories, Project Folder and any other external assets (Invision, XD, Auth0, AWS, Buddy works, etc)
+9. Set Fisherman (activity Tracking for developers) for the project’s repositories tracking and standups.
+10. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
+11. Set the meetings for the Planning and Daily Standups with the development team.
 12. Set the communication channels with the Customer.
 13. Kickoff meeting with the Development Team.
 14. Ensure that all requirements for the full development of the project are in place or scheduled to be in place. 
+15. High level Data model
 
 ### 1.2 Project Planning Meeting
 
 - Have a planning meeting when the project start with all the developers with the purpoose of defining every ticket with enouogh information to move forward, including technical specifications and acceptance criteria
 - During this meeting, the Account Manager, Project Manager, QA, and every developer on the team must be present
 - At the end planning meeting, the team should have:
- [ ] **Service Agreement:** in the Project Folder available to every member of the team
+ [ ] **Service Agreement or Requirements Document:** in the Project Folder available to every member of the team
+ [ ] **Execution Plan:** in the Project Folder available to every member of the team
  [ ] **Issues:**  Every Issue in the Kanban board must have: A) Product Specifications, B) Technical Specifications and C) UI Designs (if necessary)
  [ ] **UI Prototype**
  
 ### 1.3. Client Feedback Spreadsheet:
  
  TODO: 
+ 
+
+### 1.4. Communications with the Client
+
  
 ## 2. Quality Assurance:
 
