@@ -20,6 +20,7 @@ TODO:
 6. Name releases (versioning): https://semver.org/
 7. Emails content for releases to clients
 8. Form to incoming request for features / issues / bugs / enhancements / etc
+9. TODO list for Env Release
 
 # Terms:
 
