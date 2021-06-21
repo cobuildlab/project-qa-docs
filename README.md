@@ -6,7 +6,7 @@ This is the main repositoty of documentation for the company. In here we set up 
 
 Process to follow for the Process of Project Management in Cobuild Lab.
 
-## 2. Terms Definition [Link](/terms)
+## 2. Terms Definition [Link](/terms.md)
 
 ## 3. Roles and Responsabilities [Link](/roles)
 
