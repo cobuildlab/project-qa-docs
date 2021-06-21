@@ -8,7 +8,7 @@ Process to follow for the Process of Project Management in Cobuild Lab.
 
 ## 2. Terms Definition [Link](/terms.md)
 
-## 3. Roles and Responsabilities [Link](/roles)
+## 3. Roles and Responsabilities [Link](/roles.md)
 
 ## 4. PRE project Activities
 
