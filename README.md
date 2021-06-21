@@ -42,6 +42,7 @@ TODO:
 7. Emails content for releases to clients
 8. Form to incoming request for features / issues / bugs / enhancements / etc
 9. TODO list for Env Release
+10. TEMPLATE: Follow up emails
 
 # Terms:
 
