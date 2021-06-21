@@ -1,4 +1,25 @@
-# docs
+# [Cobuild Lab's](https://cobuildlab.com) documentation for Project Management and Software Development Conventions
+
+This is the main repositoty of documentation for the company. In here we set up all the agreements for the different processes of the Organization.
+
+# 1. Project Management:
+
+Process to follow for the Process of Project Management in Cobuild Lab.
+
+## 2. Terms Definition [Link](/terms)
+
+## 3. Roles and Responsabilities [Link](/roles)
+
+## 4. PRE project Activities
+
+## 5. IN project Activities (Software Development Process)
+
+## 6. POST project Activities (Warranty and Support)
+
+# 2. Software Development Conventions:
+
+The complete list of conventions and agreements for codebases can be found in [here](https://github.com/cobuildlab/conventions)
+
 
 TODO: 
 
