@@ -43,3 +43,7 @@ This meeting is backed by the automatic questions done by the fisherman bot.
 ## 8. Weekly Scrum Council:
 Is an internal meeting to review the status of all the active projects in the organization. 
 
+## 9. Project Dashboard:
+Is the main document of the organization for project management. It contains the current status of each project, and the leadership roles in each project. 
+https://docs.google.com/spreadsheets/d/1RwSRlAVYLjrnWtUuE0AKxEwYcAH-Vtsn3f8g1-tizzI/edit#gid=0
+
