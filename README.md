@@ -6,55 +6,11 @@ This is the main repositoty of documentation for the company. In here we set up 
 
 Process to follow for the Process of Project Management in Cobuild Lab.
 
-## 2. Terms Definition [Link](/terms.md)
+  ## 2. Terms Definition [Link](/terms.md)
 
-## 3. Roles and Responsabilities [Link](/roles.md)
+  ## 3. Roles and Responsabilities [Link](/roles.md)
 
-## 4. PRE project Activities
-
-## 5. IN project Activities (Software Development Process)
-
-## 6. POST project Activities (Warranty and Support)
-
-# 2. Software Development Conventions:
-
-The complete list of conventions and agreements for codebases can be found in [here](https://github.com/cobuildlab/conventions)
-
-
-TODO: 
-
-1. Requirement Management: (documentacion de requerimientos, alcance del requerimiento, cambio de alcance).
-1. Coding Conventions: https://github.com/cobuildlab/conventions
-1. Unit Testing, Check lists, Definition of Done
-1. Project Management Strategy: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit (Scrum + XP + Kanban)
-1. Environments: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit 
-1. Release processes: Main -> QA, QA -> Stage, Stage -> Prod: https://docs.google.com/presentation/d/1hIx5LVp6RTd7bKj8ZSllu4aZX2gf_w5frNTMq2DGbG0/edit#slide=id.p
-1. Quality Assurence: Testing Plan, Test Cases, Issues and Issues reporting
-1. Miscelaneos
-1. Test Automation
-1. Coonstant Education and Training
-1. TMMI
-2. Template for User Stories
-3. Template for CLIENT FEEDBACK (Issue tracking)
-4. Release process por environments
-5. Roles and responsabilities for Project Management and coordination: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit
-6. Name releases (versioning): https://semver.org/
-7. Emails content for releases to clients
-8. Form to incoming request for features / issues / bugs / enhancements / etc
-9. TODO list for Env Release
-10. TEMPLATE: Follow up emails
-
-# Terms:
-
-## Service Agreement: 
-Is the document agreed with the Customer that defines the scope of a project, it’s milestones and deliverables. This document is produced by the Sales Department and must be handed over to the Product Manager.
-
-## Execution Plan:
-
-
-## 1. Project
-
-### 1.1. Project Management Process
+  ## 4. PRE project Activities
 
 Here we outline the main activities when starting a project in a non-necessary sequential order:
 
@@ -84,16 +40,10 @@ Here we outline the main activities when starting a project in a non-necessary s
  [ ] **Issues:**  Every Issue in the Kanban board must have: A) Product Specifications, B) Technical Specifications and C) UI Designs (if necessary)
  [ ] **UI Prototype**
  
-### 1.3. Client Feedback Spreadsheet:
- 
- TODO: 
  
 
-### 1.4. Communications with the Client
-
- 
-## 2. Quality Assurance:
-
+  ## 5. IN project Activities (Software Development Process)
+  
 ### 2.1. Issues Quality Test:
 
 Ticket specification is responsabilitye of the Project Manager, QA and Technical Lead.
@@ -106,6 +56,43 @@ Ticket specification is responsabilitye of the Project Manager, QA and Technical
 ### 2.2. Test Case
 
 - Use the Wiki to define Business processes that need to be tested. 
+
+
+
+  ## 6. POST project Activities (Warranty and Support)
+
+# 2. Software Development Conventions:
+
+The complete list of conventions and agreements for codebases can be found in [here](https://github.com/cobuildlab/conventions)
+
+
+
+
+TODO: 
+
+1. Requirement Management: (documentacion de requerimientos, alcance del requerimiento, cambio de alcance).
+1. Coding Conventions: https://github.com/cobuildlab/conventions
+1. Unit Testing, Check lists, Definition of Done
+1. Project Management Strategy: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit (Scrum + XP + Kanban)
+1. Environments: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit 
+1. Release processes: Main -> QA, QA -> Stage, Stage -> Prod: https://docs.google.com/presentation/d/1hIx5LVp6RTd7bKj8ZSllu4aZX2gf_w5frNTMq2DGbG0/edit#slide=id.p
+1. Quality Assurence: Testing Plan, Test Cases, Issues and Issues reporting
+1. Miscelaneos
+1. Test Automation
+1. Coonstant Education and Training
+1. TMMI
+2. Template for User Stories
+3. Template for CLIENT FEEDBACK (Issue tracking)
+4. Release process por environments
+5. Roles and responsabilities for Project Management and coordination: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit
+6. Name releases (versioning): https://semver.org/
+7. Emails content for releases to clients
+8. Form to incoming request for features / issues / bugs / enhancements / etc
+9. TODO list for Env Release
+10. TEMPLATE: Follow up emails
+11. Client Feedback Spreadsheet:
+
+
 
 
 
