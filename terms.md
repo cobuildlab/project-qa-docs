@@ -20,7 +20,6 @@ Due to the nature of Software Development, not all the Business Rules are define
 
 Every change in this document must be communicated to the Customer, Project Manager, Development Team, Sales Representative, and additional stakeholders.
 
-
 ## 4. Roles Document:
 This document is initially built from the Roles section of the Service Agreement, and grows with the development of the project’s activities. This document must also be communicated to all the participants of the project.
 
@@ -36,6 +35,15 @@ A Google Drive folder is provided for all the documentation referent to the proj
 This is a meeting that is executed with the purpose of explore all the activities to be done by the Development Team in the next development iteration (1 week or 2).
 It is used to organize the tasks to be done in the period. It involves the full Development team and any stakeholders. This meeting is organized byt the Project Manager.
 
+- Have a planning meeting when the project start with all the developers with the purpoose of reviewing every ticket and insures that it has enouogh information to move forward, including technical specifications and acceptance criteria.
+- During this meeting, the Account Manager, Project Manager, QA, and every developer on the team must be present
+- At the end planning meeting, the team should have:
+ [ ] **Service Agreement or Requirements Document:** in the Project Folder available to every member of the team
+ [ ] **Execution Plan:** in the Project Folder available to every member of the team
+ [ ] **Issues:**  Every Issue in the Kanban board must have: A) Product Specifications, B) Technical Specifications and C) UI Designs (if necessary)
+ [ ] **UI Prototype**: Reference of the full UI of the Software Product
+ 
+ 
 ## 7. Daily Scrum:
 Daily meeting to sync and check the progress of the tasks being done by the Development Team. 
 This meeting is backed by the automatic questions done by the fisherman bot.
