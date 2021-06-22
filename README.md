@@ -14,33 +14,35 @@ Process to follow for the Process of Project Management in Cobuild Lab.
 
 Here we outline the main activities when starting a project in a non-necessary sequential order:
 
-1. When a project is started the first step is to assemble the team in a slack dedicated project channel. Project Channel names start with a double hyphen “--”. Example: “--awaken-flow”, “--c2g”
-2. The Project folder must be created under the main “Projects” folder managed by the organization. (Google Drive)
-3. Infrastructure Provisioning: Servers, 8base workspace, hosting, GitHub, slack channel, buddy works, DNS setup, etc
-4. Set Github Kanban with columns and labels
-5. Subscribe Github notifications to Slack Channel
-6. The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and deliverables.
-7. Create Milestones in Github Project Kanban
-8. Provide access to the team members to the Github repositiories, Project Folder and any other external assets (Invision, XD, Auth0, AWS, Buddy works, etc)
-9. Set Fisherman (activity Tracking for developers) for the project’s repositories tracking and standups.
-10. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
-11. Set the meetings for the Planning and Daily Standups with the development team.
-12. Set the communication channels with the Customer.
-13. Kickoff meeting with the Development Team.
-14. Ensure that all requirements for the full development of the project are in place or scheduled to be in place. 
-15. High level Data model
+1. CREATE THE PROJECT SLACK CHANNEL: 
 
-### 1.2 Project Planning Meeting
+When a project is started the first step is to assemble the team in a slack dedicated project channel. Project Channel names start with a double hyphen “--”, followe by the short name of the project in lowercase. Example: “--awaken-flow”, “--c2g”
 
-- Have a planning meeting when the project start with all the developers with the purpoose of defining every ticket with enouogh information to move forward, including technical specifications and acceptance criteria
-- During this meeting, the Account Manager, Project Manager, QA, and every developer on the team must be present
-- At the end planning meeting, the team should have:
- [ ] **Service Agreement or Requirements Document:** in the Project Folder available to every member of the team
- [ ] **Execution Plan:** in the Project Folder available to every member of the team
- [ ] **Issues:**  Every Issue in the Kanban board must have: A) Product Specifications, B) Technical Specifications and C) UI Designs (if necessary)
- [ ] **UI Prototype**
+2. CREATE THE PROJECT FOLDER: 
+
+The Project folder must be created under the main “Projects” folder managed by the organization. (Google Drive)
+
+3. SET UP GITHUB: 
+
+- Create the code repositories under the (repositories naming convention)[/conventions/repository-name.md]
+- Set up the Kanban project with the Kanban Project Conventions (TODO)
  
- 
+7. 3. PROVISIONING: 
+
+Infrastructure Provisioning: Servers, 8base workspace, hosting, GitHub, slack channel, buddy works, DNS setup, etc
+
+6. Set Github Kanban with columns and labels
+7. Subscribe Github notifications to Slack Channel
+8. The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and deliverables.
+9. Create Milestones in Github Project Kanban
+10. Provide access to the team members to the Github repositiories, Project Folder and any other external assets (Invision, XD, Auth0, AWS, Buddy works, etc)
+11. Set Fisherman (activity Tracking for developers) for the project’s repositories tracking and standups.
+12. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
+13. Set the meetings for the Planning and Daily Standups with the development team.
+14. Set the communication channels with the Customer.
+15. Kickoff meeting with the Development Team.
+16. Ensure that all requirements for the full development of the project are in place or scheduled to be in place. 
+17. High level Data model 
 
   ## 5. IN project Activities (Software Development Process)
   
