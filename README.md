@@ -68,7 +68,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
 
 
-TODO: 
+# 3. TODO: 
 
 1. Requirement Management: (documentacion de requerimientos, alcance del requerimiento, cambio de alcance).
 1. Coding Conventions: https://github.com/cobuildlab/conventions
