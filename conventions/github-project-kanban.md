@@ -57,11 +57,11 @@ Example:
 
 Normally columns are not enough to fully communicate the status of an Issue (Feature or Bug), sometimes it requires additional important information that we manage with labels:
 
-**high-priority**: For marking Issues important above all
-**qa-reviewed**: For issues already reviewed by a QA 
-**need-attention**: For issues that require the attention of the whole team.
-**need-qa**: For issues that require the attention of a QA
-**need-customer**: Issues that are stopped or blocked by the Customer.
+-  **high-priority**: For marking Issues important above all
+-  **qa-reviewed**: For issues already reviewed by a QA 
+-  **need-attention**: For issues that require the attention of the whole team.
+-  **need-qa**: For issues that require the attention of a QA
+-  **need-customer**: Issues that are stopped or blocked by the Customer.
 **need-design**: For issues that require or are missing the UI Designs
 **need-help**: For issues that are blocked and require more technical expertise. 
 **need-documentation**: For Issues that need to be documented in the Business Rules document
