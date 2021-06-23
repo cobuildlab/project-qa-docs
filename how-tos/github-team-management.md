@@ -2,8 +2,24 @@
 
 
 - All access to projects and repositories are managed via `teams` in the Cobuild Lab Github Organization. 
-- Only Company administrators have access to add users to teams or projects / repositories
+- Only Company administrators have access to create teams and add users to teams or projects / repositories
 
+## Create a Github Team:
+
+1. Navitage to: https://github.com/orgs/cobuildlab/teams
+2. Choose NEW TEAM from the top right corner
+3. Provide a name to the team. This name is usually the short name of a project. Example: `resident-io` `okroo` etc
+4. Hit Create Team
+
+## Provide access to repositories to existing teams:
+
+1. Navitage to: https://github.com/orgs/cobuildlab/teams
+2. From the list, choose the team that you want to provide access to
+3. Select REPOSITORIES from the top navigation bar
+4. Click NEW REPOSITORY from the option at the top right corner and choose the repository or repositories that you want the team to have access to
+5. Make sure to choose WRITE access for the repositories selected if you want the team to be able to push code to the repositories.
+
+## Add a new user to the Team:
 
 1. In order to add a user to a Project or a Repo, first identify whats the username of the user that you are trying to add
 2. Identify to which team you need to add the user to provide access
