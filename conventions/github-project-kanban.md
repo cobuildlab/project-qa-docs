@@ -46,7 +46,7 @@ Description: Completed closed tasks and Pull Requests that are delivered to the 
 Example:
 
 
-| 🥶 ICEBOX  | ⏹ PLANNING  | 2️⃣ BACKLOG  | 1️⃣ TODO  | 🟩 IN PROGRESS  | 🛑 CODE REVIEW  | ⏯ DONE | MAIN  | ⏩ DONE | QA  | ⏩ DONE | STAGE  |  ☑️ DONE | MASTER | PROD  |
+| 🥶 ICEBOX  | ⏹ PLANNING  | 2️⃣ BACKLOG  | 1️⃣ TODO  | 🟩 IN PROGRESS  | 🛑 CODE REVIEW  | ⏯ DONE - MAIN  | ⏩ DONE - QA  | ⏩ DONE - STAGE  |  ☑️ DONE - MASTER - PROD  |
 |---|---|---|---|---|---|---|---|---|---|
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
