@@ -62,15 +62,15 @@ Normally columns are not enough to fully communicate the status of an Issue (Fea
 -  **need-attention**: For issues that require the attention of the whole team.
 -  **need-qa**: For issues that require the attention of a QA
 -  **need-customer**: Issues that are stopped or blocked by the Customer.
-**need-design**: For issues that require or are missing the UI Designs
-**need-help**: For issues that are blocked and require more technical expertise. 
-**need-documentation**: For Issues that need to be documented in the Business Rules document
-**need-tech-spec**: For Issues that need technical assitant or require a Technical specification
-**customer-support**: For issues related to users’ problems.
-**bug** or **bug-<Environment Name>**: A bug or problem in one of the environments
-**api**: Label to indicate that an Issue corresponds to the backend of the project.
-**mobile**: Label to indicate that an Issue corresponds to the Mobile part of the project.
-**web**: Label to indicate that an Issue corresponds to the Web part of the project.
-w**ebsite**: Label to indicate that an Issue corresponds to the Website part of the project.
+-  **need-design**: For issues that require or are missing the UI Designs
+-  **need-help**: For issues that are blocked and require more technical expertise. 
+-  **need-documentation**: For Issues that need to be documented in the Business Rules document
+-  **need-tech-spec**: For Issues that need technical assitant or require a Technical specification
+-  **customer-support**: For issues related to users’ problems.
+-  **bug** or **bug-<Environment Name>**: A bug or problem in one of the environments
+-  **api**: Label to indicate that an Issue corresponds to the backend of the project.
+-  **mobile**: Label to indicate that an Issue corresponds to the Mobile part of the project.
+-  **web**: Label to indicate that an Issue corresponds to the Web part of the project.
+-  **website**: Label to indicate that an Issue corresponds to the Website part of the project.
 
 
