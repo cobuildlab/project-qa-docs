@@ -24,8 +24,9 @@ The Project folder must be created under the main “Projects” folder managed 
 
 3. SET UP GITHUB: 
 
-- Create the code repositories under the (repositories naming convention)[/conventions/repository-name.md]
-- Set up the Kanban project with the Kanban Project Conventions (TODO)
+- Create the code repositories under the [repositories naming convention](/conventions/repository-name.md)
+- Set up the Kanban project with the [Kanban Project Conventions](/conventions/github-project-kanban.md)
+- Create a Github Team, and add all the participants to the Team. [See How](/how-tos/github-team-management.md)
  
 7. 3. PROVISIONING: 
 
@@ -93,6 +94,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 9. TODO list for Env Release
 10. TEMPLATE: Follow up emails
 11. Client Feedback Spreadsheet:
+12. Business Rules Document
 
 
 
