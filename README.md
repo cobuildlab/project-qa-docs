@@ -95,6 +95,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 10. TEMPLATE: Follow up emails
 11. Client Feedback Spreadsheet:
 12. Business Rules Document
+13. Create release for the QA
 
 
 
