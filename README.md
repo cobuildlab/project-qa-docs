@@ -6,48 +6,53 @@ This is the main repositoty of documentation for the company. In here we set up 
 
 Process to follow for the Process of Project Management in Cobuild Lab.
 
-  ## 2. Terms Definition [Link](/terms.md)
+  ## 1.2. Terms Definition [Link](/terms.md)
 
-  ## 3. Roles and Responsabilities [Link](/roles.md)
+  ## 1.3. Roles and Responsabilities [Link](/roles.md)
 
-  ## 4. PRE project Activities
+  ## 1.4. PRE project Activities
 
 Here we outline the main activities when starting a project in a non-necessary sequential order:
 
-1. CREATE THE PROJECT SLACK CHANNEL: 
+### 1. CREATE THE PROJECT SLACK CHANNEL: 
 
 When a project is started the first step is to assemble the team in a slack dedicated project channel. Project Channel names start with a double hyphen “--”, followe by the short name of the project in lowercase. Example: “--awaken-flow”, “--c2g”
 
-2. CREATE THE PROJECT FOLDER: 
+### 2. CREATE THE PROJECT FOLDER: 
 
 The Project folder must be created under the main “Projects” folder managed by the organization. (Google Drive)
 
-3. SET UP GITHUB: 
+### 3. SET UP GITHUB: 
 
 - Create the code repositories under the [repositories naming convention](/conventions/repository-name.md)
 - Set up the Kanban project with the [Kanban Project Conventions](/conventions/github-project-kanban.md)
 - Create a Github Team, and add all the participants to the Team. [See How](/how-tos/github-team-management.md)
  
-7. 3. PROVISIONING: 
+### 4. PROVISIONING: 
 
 Infrastructure Provisioning: Servers, 8base workspace, hosting, GitHub, slack channel, buddy works, DNS setup, etc
 
-6. Set Github Kanban with columns and labels
-7. Subscribe Github notifications to Slack Channel
-8. The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and deliverables.
-9. Create Milestones in Github Project Kanban
-10. Provide access to the team members to the Github repositiories, Project Folder and any other external assets (Invision, XD, Auth0, AWS, Buddy works, etc)
-11. Set Fisherman (activity Tracking for developers) for the project’s repositories tracking and standups.
-12. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
-13. Set the meetings for the Planning and Daily Standups with the development team.
-14. Set the communication channels with the Customer.
-15. Kickoff meeting with the Development Team.
-16. Ensure that all requirements for the full development of the project are in place or scheduled to be in place. 
-17. High level Data model 
+### 6. Set Github Kanban with columns and labels
+### 7. Subscribe Github notifications to Slack Channel
+### 8. The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and deliverables.
+### 9. Create Milestones in Github Project Kanban
+### 10. Provide access to the team members to the Github repositiories, Project Folder and any other external assets (Invision, XD, Auth0, AWS, Buddy works, etc)
+### 11. Set Fisherman (activity Tracking for developers) for the project’s repositories tracking and standups.
+### 12. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
+### 13. Set the meetings for the Planning and Daily Standups with the development team.
+### 14. Set the communication channels with the Customer.
+### 15. Kickoff meeting with the Development Team.
+### 16. Ensure that all requirements for the full development of the project are in place or scheduled to be in place. 
+### 17. High level Data model 
 
-  ## 5. IN project Activities (Software Development Process)
+  ## 1.5. IN project Activities (Software Development Process)
   
-### 2.1. Issues Quality Test:
+### 1. DAILY MEETING:
+### 2. PLANNING MEETING:
+### 4. CODE REVIEW and INTEGRATION:
+### 5. TESTING AND QUALITY ASSURANCE:
+### 6. RELEASE MANAGEMENT:
+### 7. TICKET QUALITY TEST:
 
 Ticket specification is responsabilitye of the Project Manager, QA and Technical Lead.
 
@@ -56,20 +61,15 @@ Ticket specification is responsabilitye of the Project Manager, QA and Technical
 - If the Issue doesn't have the technical specification completed, it needs to be completed.
 - If the Issue requires a UI and it doesn't have it 
 
-### 2.2. Test Case
-
-- Use the Wiki to define Business processes that need to be tested. 
 
 
 
-  ## 6. POST project Activities (Warranty and Support)
+
+  ## 1.6. POST project Activities (Warranty and Support)
 
 # 2. Software Development Conventions:
 
 The complete list of conventions and agreements for codebases can be found in [here](https://github.com/cobuildlab/conventions)
-
-
-
 
 # 3. TODO: 
 
