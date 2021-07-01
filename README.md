@@ -52,6 +52,18 @@ Infrastructure Provisioning: Servers, 8base workspace, hosting, GitHub, slack ch
 ### 4. CODE REVIEW and INTEGRATION:
 ### 5. TESTING AND QUALITY ASSURANCE:
 ### 6. RELEASE MANAGEMENT:
+
+The release management process comprehends the activities to move forward the source code and features from one environment to another one.
+
+It is reponsability of the Project Manager to decide when is necessary to create a new release.
+
+New releases are created from the integration environment (main) and moved forward through the different development environments (qa, stage, master).
+
+The person who is reponsible to create the release is the **Product and QA Specialist**.
+
+[How to Create a Release](/how-tos/create-a-release.md)
+
+
 ### 7. TICKET QUALITY TEST:
 
 Ticket specification is responsabilitye of the Project Manager, QA and Technical Lead.
