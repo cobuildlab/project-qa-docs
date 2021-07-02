@@ -5,13 +5,10 @@ Complexity: "[0 1 2 3 5 8 13 21] MODULE | DETAIL"
 ---
 
 
-## <Feature Name>
+<Feature Name>
   
-## <Description or Context>
-  
-## User Stories
-
-## Technical Specifications
+<Description or Context>
+ 
 
 ## Secondary User Stories (Components)
 
