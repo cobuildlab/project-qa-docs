@@ -111,7 +111,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 14. Template for closing project
 15. testimonials
 16. Change Control Forms
-17. Dress coode and conditions for Client Presentations
+17. Dress coode and conditions for Client Presentations: https://www.thecouchmanager.com/5-video-call-setup-tips/
 
 
 
