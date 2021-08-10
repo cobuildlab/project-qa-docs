@@ -113,6 +113,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 16. Change Control Forms
 17. Dress coode and conditions for Client Presentations: https://www.thecouchmanager.com/5-video-call-setup-tips/
 18. EMAIL TEMPLPATE for Meeting Agenda
+19. Email TEMPlATE and proocudere for Prooduction Releases
 
 
 
