@@ -126,7 +126,7 @@ The Technical leader assigned for the team must review every Pull Request to be 
 
 ### 5. Continuos testing and Quality Assurance
 
-Is Cobuild Lab's philosophy that Testing and QA has to be a continuos process. Is the responsability of the Project Manager, in conjunction with the team to coordinate a batch of ready tickets
+Is Cobuild Lab's philosophy that Testing and QA has to be a continuos process. Is the responsability of the Project Manager, in conjunction with the team to coordinate a batch of ready tickets to 
 
 ### 6. Releases
 
@@ -192,7 +192,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTAyOTA2LDIwNzg2ODkzMjcsMjA5ND
-QxNTIzNCwtNTI4NzM2OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUz
-MV19
+eyJoaXN0b3J5IjpbNjkxODgyMjkzLDExOTUwMjkwNiwyMDk0ND
+E1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3NTMx
+XX0=
 -->
