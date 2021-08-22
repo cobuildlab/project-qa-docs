@@ -147,13 +147,8 @@ The person who is reponsible to create the release is the **Product and QA Speci
 Normally, the Project Manager, needs to celebrate bi weekly meetings with the client to provide status of the Project and Client Feedback open items, and also to present deliverables.
 
 ### 8. Stakeholders status communication
-### 9. Client deliverables
-### 10. Weekley internal status update
 
-
-
-
-  ## 1.6. POST project Activities (Warranty and Support)
+Once a week, on Mondays, the Project Manager needs to update the Project Dashboard spreadsheet to maintain every project stakeholder with an up to date status.
 
 # 2. Software Development Conventions:
 
@@ -161,7 +156,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
 # 3. TODO: 
 
-1. Requirement Management: (documentacion de requerimientos, alcance del requerimiento, cambio de alcance).
+
 1. Unit Testing, Check lists, Definition of Done
 1. Project Management Strategy: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit (Scrum + XP + Kanban)
 1. Environments: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit 
@@ -197,7 +192,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjkxMjA2OCwxODMxNDUxOTMyLDIwOT
-Q0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MDY1MDc1
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTE3MjE1OTA3NTgsMTgzMTQ1MTkzMiwyMD
+k0NDE1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3
+NTMxXX0=
 -->
