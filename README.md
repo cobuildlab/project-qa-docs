@@ -78,8 +78,8 @@ In https://app.fisherman.dev create the project and make sure you set:
 - Link the related Github repositories to the Fisherman Project
 - Setup the emails configuration for sending emails to the Project Slack channel, and for creating Github Issues
 
-HOW TO: [How to Configure Fisherman for a Project](/how-tos/setup-fisherman.md)
-**Note: Make s**
+**HOW TO:** [How to Configure Fisherman for a Project](/how-tos/setup-fisherman.md)
+**Note: Make sure that you pin the Project Email address in the Project Slack Channel**
 
 ### 12. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
 ### 13. Set the meetings for the Planning and Daily Standups with the development team.
@@ -164,6 +164,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzYyMjAxMCwtMTg5OTE2NTg5MCwxNj
-A2NTA3NTMxXX0=
+eyJoaXN0b3J5IjpbLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MD
+Y1MDc1MzFdfQ==
 -->
