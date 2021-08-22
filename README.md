@@ -177,6 +177,8 @@ The person who is reponsible to create the release is the **Product and QA Speci
 
 Normally, the Project Manager, needs to celebrate bi weekly meetings with the client to provide status of the Project and Client Feedback open items, and also to present deliverables.
 
+**Note:** Dress coode and conditions for Client Presentations: https://www.thecouchmanager.com/5-video-call-setup-tips/
+
 ### 8. Stakeholders status communication
 
 Once a week, on Mondays, the Project Manager needs to update the Project Dashboard spreadsheet to maintain every project stakeholder with an up to date status.
@@ -194,22 +196,12 @@ TEMPLATE: [Project Final Delivery](/templates/project-final-delivery.md)
 
 The complete list of conventions and agreements for codebases can be found in [here](https://github.com/cobuildlab/conventions)
 
-# 3. TODO: 
-
-12. Business Rules Document
-15. Testimonials
-17. Dress coode and conditions for Client Presentations: https://www.thecouchmanager.com/5-video-call-setup-tips/
-18. EMAIL TEMPLPATE for Meeting Agenda
-19. Email TEMPlATE and proocudere for Prooduction Releases
-20. Client Feedback Spreadsheet: Change control and Client Feedback
-
-
 
 
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Njc2MjQ5NSwxMDkwODM0MzMxLC0xMz
-Y4MDU5NDc3LDE4MzE0NTE5MzIsMjA5NDQxNTIzNCwtNTI4NzM2
-OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUzMV19
+eyJoaXN0b3J5IjpbNzY5MDE1NTk1LDEwOTA4MzQzMzEsLTEzNj
+gwNTk0NzcsMTgzMTQ1MTkzMiwyMDk0NDE1MjM0LC01Mjg3MzY5
+MDEsMTIxMzYyMjAxMCwxNjA2NTA3NTMxXX0=
 -->
