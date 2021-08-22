@@ -71,6 +71,13 @@ Ensure all team members have access to all the Project assets.
 
 ### 11. Set Fisherman (activity Tracking for developers) for the project’s repositories tracking and standups.
 
+In https://app.fisherman.dev create the project and make sure you set:
+
+- The Fisherman Project for this specific project
+- The Standup bot for the Project
+- Link the related Github repositories to the Fisherman Project
+- Setup the emails configuration
+
 How to Configure Fisherman for a Project
 
 ### 12. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
@@ -156,5 +163,5 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjUwNzUzMV19
+eyJoaXN0b3J5IjpbLTYyODY5MjIwMiwxNjA2NTA3NTMxXX0=
 -->
