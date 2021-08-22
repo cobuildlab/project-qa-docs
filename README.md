@@ -87,7 +87,15 @@ In coordination with the Development Team, setup the recurrent Daily meeting and
 
 ### 13. Set the communication channels with the Customer.
 
+Examples of communication channels:
+
+- Slack channel in Cobuild Lab's Slack workspace
+- Slack channel in 8base's Slack workspace
+- Whatsapp group
+
 ### 14. Set the Client Feedback Spreadsheet
+
+**TEMPLATE:** 
 
   ## 1.5. IN project Activities (Software Development Process)
   
@@ -165,6 +173,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjY5MTE1NSwtNTI4NzM2OTAxLDEyMT
-M2MjIwMTAsMTYwNjUwNzUzMV19
+eyJoaXN0b3J5IjpbLTExMzcxMzI5MzcsLTUyODczNjkwMSwxMj
+EzNjIyMDEwLDE2MDY1MDc1MzFdfQ==
 -->
