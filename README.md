@@ -85,7 +85,7 @@ In https://app.fisherman.dev create the project and make sure you set:
 
 In coordination with the Development Team, setup the recurrent Daily meeting and any other required meeting.
 
-In coordination with the Client and other project stakeholders, setup a recurrent bi-weekly meeting to 
+In coordination with the Client and other project stakeholders, setup a recurrent bi-weekly meeting to update the client with the project status, and provide deliverables of the Product.
 
 ### 13. Set the communication channels with the Customer.
 
@@ -144,7 +144,7 @@ The person who is reponsible to create the release is the **Product and QA Speci
 
 ### 7. Client meetings
 
-Normally, the Project Manager, needs to celebrate bi weekly meetings
+Normally, the Project Manager, needs to celebrate bi weekly meetings with the client to provide status of the Project and Client Feedback open items, and also to present deliverables.
 
 ### 8. Stakeholders status communication
 ### 9. Client deliverables
@@ -197,7 +197,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTQ1MTkzMiwtMjM5NTIyNjIzLDIwOT
+eyJoaXN0b3J5IjpbLTM3MjkxMjA2OCwxODMxNDUxOTMyLDIwOT
 Q0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MDY1MDc1
 MzFdfQ==
 -->
