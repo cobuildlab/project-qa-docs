@@ -122,7 +122,7 @@ When necessary, a longer meeting for clarifying requirements can be scheduled. T
 
 ### 4. Code Reviews
 
-The Technical leader assigned for the team must review every Pull Request 
+The Technical leader assigned for the team must review every Pull Request to be in
 
 ### 5. Continuos testing and Quality Assurance:
 ### 6. Releases
@@ -189,7 +189,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDMwMTQyNiwtMTE2NDg4ODg1MiwyMD
-k0NDE1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3
-NTMxXX0=
+eyJoaXN0b3J5IjpbMjA3ODY4OTMyNywxOTM0MzAxNDI2LDIwOT
+Q0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MDY1MDc1
+MzFdfQ==
 -->
