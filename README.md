@@ -2,42 +2,77 @@
 
 This is the main repositoty of documentation for the company. In here we set up all the agreements for the different processes of the Organization.
 
-# 1. Project Management:
+# 1. Project Management Process:
 
-Process to follow for the Process of Project Management in Cobuild Lab.
+Process to follow for the Process of Project Management in Cobuild Lab. 
 
-  ## 1.2. Terms Definition [Link](/terms.md)
+Cobuild Lab uses the Kanban agila framework for the Software Development Process.  For more information on the framework, please [READ THIS](https://www.atlassian.com/agile/kanban)
 
-  ## 1.3. Roles and Responsabilities [Link](/roles.md)
+  ## 1.2. Terms Definition [Link](/conventions/terms.md)
+
+  ## 1.3. Roles and Responsabilities [Link](/conventions/roles.md)
 
   ## 1.4. PRE project Activities
 
 Here we outline the main activities when starting a project in a non-necessary sequential order:
 
-### 1. CREATE THE PROJECT SLACK CHANNEL: 
+### 1. Cerate the Project Slack Channel 
 
 When a project is started the first step is to assemble the team in a slack dedicated project channel. Project Channel names start with a double hyphen “--”, followe by the short name of the project in lowercase. Example: “--awaken-flow”, “--c2g”
 
-### 2. CREATE THE PROJECT FOLDER: 
+### 2. Create the Project Folder 
 
-The Project folder must be created under the main “Projects” folder managed by the organization. (Google Drive)
+The Project folder must be created under the main “Projects” folder managed by the organization. (Google Drive).
 
-### 3. SET UP GITHUB: 
+Link to the main Project Folder: https://drive.google.com/drive/u/1/folders/1Uz91sEjNBETLiQJgy_kmx8HODPFMRaQd
+
+Convention Link: [Project Folder Structure](/conventions/project-folder-structure.md)
+
+**Note: Make sure you pin the link of the folder to the Project Slack Channel.**
+
+### 3. Seupt Github 
 
 - Create the code repositories under the [repositories naming convention](/conventions/repository-name.md)
-- Set up the Kanban project with the [Kanban Project Conventions](/conventions/github-project-kanban.md)
+- Set up the Kanban project with the [Kanban Project Conventions](/conventions/github-project-kanban.md). The Project Kanban is created in the main repository of the project, the WEB for web projects and the MOBILE for Mobile applications.
 - Create a Github Team, and add all the participants to the Team. [See How](/how-tos/github-team-management.md)
  
-### 4. PROVISIONING: 
+### 4. Provisioning: 
 
-Infrastructure Provisioning: Servers, 8base workspace, hosting, GitHub, slack channel, buddy works, DNS setup, etc
+One of the first task to do in a project is consult with the team or Technical Leader to create the first activities in the projects Kanban board to request the IT assets to be able to run the project without any problems. This assets usually include:
 
-### 6. Set Github Kanban with columns and labels
+- 8base workspace
+- Servers
+- Databases
+- Other hosting services
+- Github CI/CD or team members
+- Buddy CI/CD
+- DNS Setup, etc
+
 ### 7. Subscribe Github notifications to Slack Channel
+
+Using the GIthub bot installed in the Cobuild Lab Slack Workspace, subscribe all the repositories for the project to send notifications to the Project Slack Channel.
+
+Reference: [https://slack.github.com/](https://slack.github.com/)
+
 ### 8. The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and deliverables.
-### 9. Create Milestones in Github Project Kanban
+
+The Project Management team: Project Manager and Product Manager or QA, must ensure that the full scope of the project is shared with the whole team for be revised, and a Planning meeting must be set to define dated Milestones for the project. 
+
+### 9. Communicate Milestones in Github Project Kanban and Milestones Document
+
+Once the requirements have been reviewed, and the Milestones have being agreed, the Project Manager must ensure that all members and stakeholders have access to the Milestones document by placing the document in the main Project Dashboard.
+
+**PROJECT DASHBOARD:** [https://docs.google.com/spreadsheets/d/1RwSRlAVYLjrnWtUuE0AKxEwYcAH-Vtsn3f8g1-tizzI/edit#gid=0](https://docs.google.com/spreadsheets/d/1RwSRlAVYLjrnWtUuE0AKxEwYcAH-Vtsn3f8g1-tizzI/edit#gid=0)
+**8base's PROJECT DASHBOARD:** [https://docs.google.com/spreadsheets/d/1G8ybAmRXWhPNDDYKhZXH5FPUZRB-59rS7Vd2lkLxYGw/edit#gid=0](https://docs.google.com/spreadsheets/d/1G8ybAmRXWhPNDDYKhZXH5FPUZRB-59rS7Vd2lkLxYGw/edit#gid=0)
+
 ### 10. Provide access to the team members to the Github repositiories, Project Folder and any other external assets (Invision, XD, Auth0, AWS, Buddy works, etc)
+
+Ensure all team members have access to all the Project assets.
+
 ### 11. Set Fisherman (activity Tracking for developers) for the project’s repositories tracking and standups.
+
+How to Configure Fisherman for a Project
+
 ### 12. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
 ### 13. Set the meetings for the Planning and Daily Standups with the development team.
 ### 14. Set the communication channels with the Customer.
@@ -86,7 +121,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 # 3. TODO: 
 
 1. Requirement Management: (documentacion de requerimientos, alcance del requerimiento, cambio de alcance).
-1. Coding Conventions: https://github.com/cobuildlab/conventions
 1. Unit Testing, Check lists, Definition of Done
 1. Project Management Strategy: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit (Scrum + XP + Kanban)
 1. Environments: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit 
@@ -121,3 +155,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
 
   
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYwNjUwNzUzMV19
+-->
