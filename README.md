@@ -15,7 +15,17 @@ Information to follow for the Process of Project Management in Cobuild Lab:
 5.  Extremmly Agile
 6. Sustainable Software and Zero Waste: Fast and small continuos deliveraty + Early retrospective
 
-Cobuild Lab uses the Kanban agila framework for the Software Development Process.  For more information on the framework, please [READ THIS](https://www.atlassian.com/agile/kanban)
+### Framework:
+
+Cobuild Lab uses the Kanban agile framework for the Software Development Process.  For more information on the framework, please [READ THIS](https://www.atlassian.com/agile/kanban)
+
+#### Preferred Tooling:
+
+1.  Typescript and Python
+2.  ReactJs and React Native
+3.  8base and AWS
+4.  Github, Buddy Works, and Slack
+5. ESLINT and Husky, 
 
   ## 1.2. Terms Definition [Link](/conventions/terms.md)
 
@@ -200,7 +210,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkyNDMzNywxODMxNDUxOTMyLDIwOT
-Q0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MDY1MDc1
-MzFdfQ==
+eyJoaXN0b3J5IjpbNDQyMzY1ODAyLDE4MzE0NTE5MzIsMjA5ND
+QxNTIzNCwtNTI4NzM2OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUz
+MV19
 -->
