@@ -85,7 +85,7 @@ In https://app.fisherman.dev create the project and make sure you set:
 
 In coordination with the Development Team, setup the recurrent Daily meeting and any other required meeting.
 
-In coordination with the Client and other project stakeholders, setup a recurrent bi-weekly meeting 
+In coordination with the Client and other project stakeholders, setup a recurrent bi-weekly meeting to 
 
 ### 13. Set the communication channels with the Customer.
 
@@ -197,7 +197,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTUyMjYyMyw2OTE4ODIyOTMsMjA5ND
-QxNTIzNCwtNTI4NzM2OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUz
-MV19
+eyJoaXN0b3J5IjpbMTgzMTQ1MTkzMiwtMjM5NTIyNjIzLDIwOT
+Q0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MDY1MDc1
+MzFdfQ==
 -->
