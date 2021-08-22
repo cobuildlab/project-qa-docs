@@ -171,7 +171,7 @@ New releases are created from the integration environment (main) and moved forwa
 
 The person who is reponsible to create the release is the **Product and QA Specialist**.
 
-**HOW TO:**[How to Create a Release](/how-tos/create-a-release.md)
+**HOW TO:** [How to Create a Release](/how-tos/create-a-release.md)
 
 ### 7. Client meetings
 
@@ -180,6 +180,9 @@ Normally, the Project Manager, needs to celebrate bi weekly meetings with the cl
 ### 8. Stakeholders status communication
 
 Once a week, on Mondays, the Project Manager needs to update the Project Dashboard spreadsheet to maintain every project stakeholder with an up to date status.
+
+  ## 1.5. IN project Activities (Software Development Process)
+
 
 # 2. Software Development Conventions:
 
@@ -209,7 +212,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzI5NjI4NSwtMTM2ODA1OTQ3NywxOD
+eyJoaXN0b3J5IjpbMTg1MDEwMzg2OCwtMTM2ODA1OTQ3NywxOD
 MxNDUxOTMyLDIwOTQ0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIy
 MDEwLDE2MDY1MDc1MzFdfQ==
 -->
