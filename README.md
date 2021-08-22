@@ -157,7 +157,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 # 3. TODO: 
 
 
-1. Unit Testing, Check lists, Definition of Done
 1. Project Management Strategy: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit (Scrum + XP + Kanban)
 1. Environments: https://docs.google.com/document/d/1AGbBEnYg5_k0Bd-e4j-TdmNk3qu4vdAYhExS9kD6C-Q/edit 
 1. Release processes: Main -> QA, QA -> Stage, Stage -> Prod: https://docs.google.com/presentation/d/1hIx5LVp6RTd7bKj8ZSllu4aZX2gf_w5frNTMq2DGbG0/edit#slide=id.p
@@ -192,7 +191,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE1OTA3NTgsMTgzMTQ1MTkzMiwyMD
-k0NDE1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3
-NTMxXX0=
+eyJoaXN0b3J5IjpbMTM2NDgzMjU2MCwxODMxNDUxOTMyLDIwOT
+Q0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MDY1MDc1
+MzFdfQ==
 -->
