@@ -8,7 +8,7 @@ It must contain if necessary:
 - **Latest updates**:  Information about the most recent release on the project that are available in the `stage` environment (Latest release information). This information can be provided as a list of features with or without videos.
 - **Updates on the latest pending items**: A breakdown of each pending item from previos conversations and meetings.
 - **New Pending Items**: Any ask or pending items in behalf of any party.
-- **Information about the updaoming Releaase if any**: Dates for the next release
+- **Information about the upcoming Release if any**: Dates for the next release
 
 
 ## Example:
@@ -48,5 +48,5 @@ For the next release on date 05/01/2021 we are planning to deliver:
 
 Thanks!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk4MzQ4NjJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTM5NzgxNzVdfQ==
 -->
