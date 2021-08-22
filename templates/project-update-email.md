@@ -17,8 +17,8 @@ To: <Project Stakeholders>
   
 Subject: `<Project Name>` | Status Update
 
-
-Hello, `<>`
+```
+Hello, <CLIENT NAME>
 
 Here is the most recent update on the project:
 
@@ -46,7 +46,7 @@ For the next release on date 05/01/2021 we are planning to deliver:
 - \<Feature Name\>: \<Description\>
 - \<Feature Name\>: \<Description\>
 
-Thanks!
+Thanks!```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM5NzgxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE2MDc1MTQ2NTddfQ==
 -->
