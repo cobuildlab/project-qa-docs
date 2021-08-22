@@ -10,10 +10,10 @@ Information to follow for the Process of Project Management in Cobuild Lab:
 
 1.  Distributed remote teams
 2.  Customer-centric development process
-    
 3.  Engineering first approach to solve problems
-    
 4.  Fast delivery over technical proficiency 
+5.  Extremmly Agile
+6. Sustainable Software and Zero Waste: Fast and small continuos deliveraty + Early retrospective
 
 Cobuild Lab uses the Kanban agila framework for the Software Development Process.  For more information on the framework, please [READ THIS](https://www.atlassian.com/agile/kanban)
 
@@ -200,7 +200,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA3MTczMTQsMTgzMTQ1MTkzMiwyMD
-k0NDE1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3
-NTMxXX0=
+eyJoaXN0b3J5IjpbLTE0MjkyNDMzNywxODMxNDUxOTMyLDIwOT
+Q0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MDY1MDc1
+MzFdfQ==
 -->
