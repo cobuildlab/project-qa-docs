@@ -81,9 +81,11 @@ In https://app.fisherman.dev create the project and make sure you set:
 **HOW TO:** [How to Configure Fisherman for a Project](/how-tos/setup-fisherman.md)
 **Note: Make sure that you pin the Project Email address in the Project Slack Channel**
 
-### 12. Set the meetings for the Planning and Daily Standups with the development team.
+### 12. Meetings: Set the meetings for the Planning and Daily Standups with the development team and follow up meeting with the Client.
 
 In coordination with the Development Team, setup the recurrent Daily meeting and any other required meeting.
+
+In coordination with the Client and other project stakeholders, setup a recurrent bi-weekly meeting 
 
 ### 13. Set the communication channels with the Customer.
 
@@ -126,7 +128,7 @@ The Technical leader assigned for the team must review every Pull Request to be 
 
 ### 5. Continuos testing and Quality Assurance
 
-Is Cobuild Lab's philosophy that Testing and QA has to be a continuos process. Is the responsability of the Project Manager, in conjunction with the team to coordinate a batch of ready tickets to 
+Is Cobuild Lab's philosophy that Testing and QA has to be a continuos process. Is the responsability of the Project Manager, in conjunction with the team to coordinate a batch of ready tickets to be delivered to the QA or STAGE environments at any point during the week.
 
 ### 6. Releases
 
@@ -141,6 +143,9 @@ The person who is reponsible to create the release is the **Product and QA Speci
 **HOW TO:**[How to Create a Release](/how-tos/create-a-release.md)
 
 ### 7. Client meetings
+
+Normally, the Project Manager, needs to celebrate bi weekly meetings
+
 ### 8. Stakeholders status communication
 ### 9. Client deliverables
 ### 10. Weekley internal status update
@@ -192,7 +197,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxODgyMjkzLDExOTUwMjkwNiwyMDk0ND
-E1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3NTMx
-XX0=
+eyJoaXN0b3J5IjpbLTIzOTUyMjYyMyw2OTE4ODIyOTMsMjA5ND
+QxNTIzNCwtNTI4NzM2OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUz
+MV19
 -->
