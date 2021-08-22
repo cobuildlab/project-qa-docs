@@ -81,12 +81,13 @@ In https://app.fisherman.dev create the project and make sure you set:
 **HOW TO:** [How to Configure Fisherman for a Project](/how-tos/setup-fisherman.md)
 **Note: Make sure that you pin the Project Email address in the Project Slack Channel**
 
-### 12. Complete all User Stories (Issues or Tickets) in the project scope on a Planning meeting.
-### 13. Set the meetings for the Planning and Daily Standups with the development team.
-### 14. Set the communication channels with the Customer.
-### 15. Kickoff meeting with the Development Team.
-### 16. Ensure that all requirements for the full development of the project are in place or scheduled to be in place. 
-### 17. High level Data model 
+### 12. Set the meetings for the Planning and Daily Standups with the development team.
+
+In coordination with the Development Team, setup the recurrent Daily meeting and any other required meeting.
+
+### 13. Set the communication channels with the Customer.
+
+### 14. Set the Client Feedback Spreadsheet
 
   ## 1.5. IN project Activities (Software Development Process)
   
@@ -164,6 +165,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MD
-Y1MDc1MzFdfQ==
+eyJoaXN0b3J5IjpbMTQ2NjY5MTE1NSwtNTI4NzM2OTAxLDEyMT
+M2MjIwMTAsMTYwNjUwNzUzMV19
 -->
