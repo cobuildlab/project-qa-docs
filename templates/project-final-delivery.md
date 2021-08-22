@@ -35,21 +35,13 @@ Here is the most recent update on the project:
 
 -   We offer a 30-day warranty on new functional issues (errors or bugs) that fall under the scope of our Service Agreement. Each issue must be sent to the Project manager as explained as thoroughly as possible.
 -   Starting on <CLOSE DATE>, we will begin invoicing a monthly fee of $310 explained below:
-    
-
--   $160 for the hosting and infrastructure services. This includes the 8base fee for the use of their platform and web hosting.
-    
--   $150 for Customer and Infrastructure support* over all your IT assets: 8base account, web servers, code hosting, etc. It’s important to note that this fee is optional, you can choose to manage your own assets and/or have them transferred to a third party of your choosing.
-    
-
+*   $160 for the hosting and infrastructure services. This includes the 8base fee for the use of their platform and web hosting.
+*   $150 for Customer and Infrastructure support* over all your IT assets: 8base account, web servers, code hosting, etc. It’s important to note that this fee is optional, you can choose to manage your own assets and/or have them transferred to a third party of your choosing.
 * This does not include new features, enhancements, or changes to the existing platform.
 
 It has been a pleasure to bring this idea to life, and we are looking forward to continuing to do business with you.
 
-  
-
 Next Steps:
-
 
 1.  We put you in contact with Navigate, they are a growth agency for startups. I believe you already had your meeting, let us know how that went as we are really interested in seeing this project grow for you and the Miami art community.
     
@@ -68,5 +60,5 @@ Thanks!```
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjgwMTE3N119
+eyJoaXN0b3J5IjpbLTUwMDM2MzM5M119
 -->
