@@ -181,7 +181,13 @@ Normally, the Project Manager, needs to celebrate bi weekly meetings with the cl
 
 Once a week, on Mondays, the Project Manager needs to update the Project Dashboard spreadsheet to maintain every project stakeholder with an up to date status.
 
-  ## 1.6. IN project Activities (Software Development Process)
+  ## 1.6. POST project Activities (Delivery and Warranty)
+
+### 1. Closing Email communication
+
+At the end of the development of each project, we need to communicate the Client the milestone:
+
+TEMPLATE: [Project Final Delivery](/templates/project-final-delivery.md)
 
 
 # 2. Software Development Conventions:
@@ -190,17 +196,8 @@ The complete list of conventions and agreements for codebases can be found in [h
 
 # 3. TODO: 
 
-
-7. Emails content for releases to clients
-8. Form to incoming request for features / issues / bugs / enhancements / etc
-9. TODO list for Env Release
-10. TEMPLATE: Follow up emails
-11. Client Feedback Spreadsheet:
 12. Business Rules Document
-13. Create release for the QA
-14. Template for closing project
-15. testimonials
-16. Change Control Forms
+15. Testimonials
 17. Dress coode and conditions for Client Presentations: https://www.thecouchmanager.com/5-video-call-setup-tips/
 18. EMAIL TEMPLPATE for Meeting Agenda
 19. Email TEMPlATE and proocudere for Prooduction Releases
@@ -212,7 +209,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDgzNDMzMSwxODUwMTAzODY4LC0xMz
+eyJoaXN0b3J5IjpbMTg0Njc2MjQ5NSwxMDkwODM0MzMxLC0xMz
 Y4MDU5NDc3LDE4MzE0NTE5MzIsMjA5NDQxNTIzNCwtNTI4NzM2
 OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUzMV19
 -->
