@@ -112,7 +112,7 @@ It is understood that all the requirements for a Project will not be ready befor
   
 ### 1. Daily Meeting
 
-This is the meeting that needs to be celebrated everyday to sync the team, clarify the work in scope (the TODO column in the Kanban) and make sure that everybody understand the tickets 
+This is the meeting that needs to be celebrated everyday to sync the team, clarify the work in scope (the TODO column in the Kanban) and make sure that everybody understand the penditickets 
 
 ### 2. Planning Meeting
 ### 4. Code Reviews
@@ -181,6 +181,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTc4NzQ3MiwyMDk0NDE1MjM0LC01Mj
-g3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3NTMxXX0=
+eyJoaXN0b3J5IjpbLTExNjQ4ODg4NTIsLTY1MTc4NzQ3MiwyMD
+k0NDE1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3
+NTMxXX0=
 -->
