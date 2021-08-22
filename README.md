@@ -112,10 +112,18 @@ It is understood that all the requirements for a Project will not be ready befor
   
 ### 1. Daily Meeting
 
-This is the meeting that needs to be celebrated everyday to sync the team, clarify the work in scope (the TODO column in the Kanban) and make sure that everybody understand the penditickets 
+This is the meeting that needs to be celebrated everyday to sync the team, clarify the work in scope (the TODO column in the Kanban) and make sure that everybody understand the pending tickets.
+
+This meeting is conducted by the Project Manager, and it requires the participation of all the team members.
 
 ### 2. Planning Meeting
+
+When necessary, a longer meeting for clarifying requirements can be scheduled. The goal here is to provide more information on the work in scope (TODO column in the Kanban).
+
 ### 4. Code Reviews
+
+The Technical leader assigned for the team must review every Pull Request 
+
 ### 5. Continuos testing and Quality Assurance:
 ### 6. Releases
 
@@ -181,7 +189,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ4ODg4NTIsLTY1MTc4NzQ3MiwyMD
+eyJoaXN0b3J5IjpbMTkzNDMwMTQyNiwtMTE2NDg4ODg1MiwyMD
 k0NDE1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3
 NTMxXX0=
 -->
