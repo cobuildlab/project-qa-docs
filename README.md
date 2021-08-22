@@ -106,19 +106,18 @@ Ticket specification is responsabilitye of the Project Manager, QA and Technical
 - If the Issue doesn't have the technical specification completed, it needs to be completed.
 - If the Issue requires a UI and it doesn't have it, it needs to be completed.
 
-It is understood that all the requirements for a Project will not be ready before the start of the project, for this, the tickets need to be labeled with the proper "need". Example: `need-customer"` `need-
+It is understood that all the requirements for a Project will not be ready before the start of the project, for this, the tickets need to be labeled with the proper "need". Example: `need-customer"` `need-desing` `need-techincal-specification`
 
   ## 1.5. IN project Activities (Software Development Process)
   
 ### 1. Daily Meeting
+
+This is the meeting that needs to be celebrated everyday to sync the team, clarify the work in scope (the TODO column in the Kanban) and make sure that everybody understand the tickets 
+
 ### 2. Planning Meeting
 ### 4. Code Reviews
 ### 5. Continuos testing and Quality Assurance:
 ### 6. Releases
-### 7. Client meetings
-### 8. Stakeholders status communication
-### 9. Client deliverables
-### 10. Weekley internal status update
 
 The release management process comprehends the activities to move forward the source code and features from one environment to another one.
 
@@ -130,12 +129,10 @@ The person who is reponsible to create the release is the **Product and QA Speci
 
 **HOW TO:**[How to Create a Release](/how-tos/create-a-release.md)
 
-
-### 7. TICKET QUALITY TEST:
-
-
-
-
+### 7. Client meetings
+### 8. Stakeholders status communication
+### 9. Client deliverables
+### 10. Weekley internal status update
 
 
 
@@ -184,6 +181,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjYyOTUyOSwyMDk0NDE1MjM0LC01Mj
+eyJoaXN0b3J5IjpbLTY1MTc4NzQ3MiwyMDk0NDE1MjM0LC01Mj
 g3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3NTMxXX0=
 -->
