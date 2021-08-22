@@ -122,9 +122,12 @@ When necessary, a longer meeting for clarifying requirements can be scheduled. T
 
 ### 4. Code Reviews
 
-The Technical leader assigned for the team must review every Pull Request to be in
+The Technical leader assigned for the team must review every Pull Request to be incorporated to the code respositories to be integrated in the development environments. Likewise, every Pull Request needs to be approved for at least the Technical Leader of the team.
 
-### 5. Continuos testing and Quality Assurance:
+### 5. Continuos testing and Quality Assurance
+
+Is Cobuild Lab's philosophy that Testing and QA has to be a continuos process. Is the responsability of the Project Manager, in conjunction with the team to coordinate a batch of ready tickets
+
 ### 6. Releases
 
 The release management process comprehends the activities to move forward the source code and features from one environment to another one.
@@ -189,7 +192,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODY4OTMyNywxOTM0MzAxNDI2LDIwOT
-Q0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIyMDEwLDE2MDY1MDc1
-MzFdfQ==
+eyJoaXN0b3J5IjpbMTE5NTAyOTA2LDIwNzg2ODkzMjcsMjA5ND
+QxNTIzNCwtNTI4NzM2OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUz
+MV19
 -->
