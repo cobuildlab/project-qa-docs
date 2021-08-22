@@ -95,15 +95,19 @@ Examples of communication channels:
 
 ### 14. Set the Client Feedback Spreadsheet
 
-**TEMPLATE:** 
+**TEMPLATE:** https://docs.google.com/spreadsheets/d/1QkpgUniCL1NhPObehKKKxsy-AOzFiMTKJtR8oEefrGA/edit#gid=0
 
   ## 1.5. IN project Activities (Software Development Process)
   
-### 1. DAILY MEETING:
-### 2. PLANNING MEETING:
-### 4. CODE REVIEW and INTEGRATION:
-### 5. TESTING AND QUALITY ASSURANCE:
-### 6. RELEASE MANAGEMENT:
+### 1. Daily Meeting
+### 2. Planning Meeting
+### 4. Code Reviews
+### 5. Continuos testing and Quality Assurance:
+### 6. Releases
+### 7. Client meetings
+### 8. Stakeholders status communication
+### 9. Client deliverables
+
 
 The release management process comprehends the activities to move forward the source code and features from one environment to another one.
 
@@ -173,6 +177,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcxMzI5MzcsLTUyODczNjkwMSwxMj
+eyJoaXN0b3J5IjpbLTE1NTU2NDc2OTAsLTUyODczNjkwMSwxMj
 EzNjIyMDEwLDE2MDY1MDc1MzFdfQ==
 -->
