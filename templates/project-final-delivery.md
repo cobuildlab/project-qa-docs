@@ -6,10 +6,9 @@ This is a communication email sent to clients to communicate the culmination of 
 It must contain if necessary:
 
 - **Project Stakeholders**: the email must be addressed to everyone involved in the management of the project.
-- **Latest updates**:  Information about the most recent release on the project that are available in the `stage` environment (Latest release information). This information can be provided as a list of features with or without videos.
+- **Latest updates**:  Information about the most recent release on the project that are available in the `master` environment (Latest release information). This information can be provided as a list of features with or without videos.
 - **Updates on the latest pending items**: A breakdown of each pending item from previos conversations and meetings.
-- **New Pending Items**: Any ask or pending items in behalf of any party.
-- **Information about the upcoming Release if any**: Dates for the next release
+- **Warranty and Support**: Information in how to report issues for inspection as costs for the continuos support if any.
 
 
 ## Example:
@@ -20,6 +19,20 @@ Subject: `<Project Name>` | Status Update
 
 ```
 Hello, <CLIENT NAME>
+
+Dear Kerry,
+
+We are happy to announce that ART- VAULT is officially production-ready!
+
+
+Specific Features:
+
+-   User Profile
+    
+-   User Account
+    
+-   Art Inventory Management
+    
 
 Here is the most recent update on the project:
 
@@ -49,22 +62,7 @@ For the next release on date 05/01/2021 we are planning to deliver:
 
 Thanks!```
 
-Dear Kerry,
 
-  
-
-We are happy to announce that ART- VAULT is officially production-ready!
-
-  
-
-Specific Features:
-
--   User Profile
-    
--   User Account
-    
--   Art Inventory Management
-    
 
 Things to consider:
 
@@ -102,5 +100,5 @@ Please let me know if you have any questions.
   
 ![gearfooter-01.png](https://lh4.googleusercontent.com/4LPAsN4ZOHkXklW7D4Ev_nZ3mkij-UTkKjFTMtR9RkOyGnMU2qS1zqIO7vcSjWmvCPsfv8VRuPjpIPbrRPe5OgGN-yHe3bbPN2_0QSHOioaVkFnaQX9gxgerOIwd0o9kk7Xde3Z-)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI0MTI2MThdfQ==
+eyJoaXN0b3J5IjpbLTIwMDM3NDczMzddfQ==
 -->
