@@ -19,13 +19,25 @@ Information to follow for the Process of Project Management in Cobuild Lab:
 
 Cobuild Lab uses the Kanban agile framework for the Software Development Process.  For more information on the framework, please [READ THIS](https://www.atlassian.com/agile/kanban)
 
-#### Preferred Tooling:
+### Preferred Tooling:
 
 1.  Typescript and Python
 2.  ReactJs and React Native
 3.  8base and AWS
 4.  Github, Buddy Works, and Slack
-5. ESLINT and Husky, 
+5. ESLINT and Husky
+
+### Project Management Keys
+
+1.  Real-time communication and high availability is necessary
+2.  Produce high-quality software to the customer in the shortest amount of time
+3.  Communication must be transparent between customer and development team
+4.  Automated unit testing and functional testing
+5.  Planned activities can change at any time
+6.  Only work in top priority items
+7.  All the tasks, requirements, and issues of the projects are visible all the time in the Kanban Board.
+8.  Automated Deployment
+9.  Sprints of 1 or 2 weeks tops.
 
   ## 1.2. Terms Definition [Link](/conventions/terms.md)
 
@@ -210,7 +222,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMzY1ODAyLDE4MzE0NTE5MzIsMjA5ND
-QxNTIzNCwtNTI4NzM2OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUz
-MV19
+eyJoaXN0b3J5IjpbLTEzNjgwNTk0NzcsMTgzMTQ1MTkzMiwyMD
+k0NDE1MjM0LC01Mjg3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3
+NTMxXX0=
 -->
