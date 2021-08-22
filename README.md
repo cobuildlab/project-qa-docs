@@ -181,7 +181,7 @@ Normally, the Project Manager, needs to celebrate bi weekly meetings with the cl
 
 Once a week, on Mondays, the Project Manager needs to update the Project Dashboard spreadsheet to maintain every project stakeholder with an up to date status.
 
-  ## 1.5. IN project Activities (Software Development Process)
+  ## 1.6. IN project Activities (Software Development Process)
 
 
 # 2. Software Development Conventions:
@@ -212,7 +212,7 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDEwMzg2OCwtMTM2ODA1OTQ3NywxOD
-MxNDUxOTMyLDIwOTQ0MTUyMzQsLTUyODczNjkwMSwxMjEzNjIy
-MDEwLDE2MDY1MDc1MzFdfQ==
+eyJoaXN0b3J5IjpbMTA5MDgzNDMzMSwxODUwMTAzODY4LC0xMz
+Y4MDU5NDc3LDE4MzE0NTE5MzIsMjA5NDQxNTIzNCwtNTI4NzM2
+OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUzMV19
 -->
