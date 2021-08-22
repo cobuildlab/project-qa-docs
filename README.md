@@ -97,7 +97,7 @@ Examples of communication channels:
 
 **TEMPLATE:** https://docs.google.com/spreadsheets/d/1QkpgUniCL1NhPObehKKKxsy-AOzFiMTKJtR8oEefrGA/edit#gid=0
 
-### 15. Check Tickets
+### 15. Check Tickets in
 
   ## 1.5. IN project Activities (Software Development Process)
   
@@ -175,6 +175,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY4NjY5MDMsLTUyODczNjkwMSwxMj
-EzNjIyMDEwLDE2MDY1MDc1MzFdfQ==
+eyJoaXN0b3J5IjpbMjA5NDQxNTIzNCwtMTMwNjg2NjkwMywtNT
+I4NzM2OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUzMV19
 -->
