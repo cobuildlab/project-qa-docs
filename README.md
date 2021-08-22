@@ -97,6 +97,8 @@ Examples of communication channels:
 
 **TEMPLATE:** https://docs.google.com/spreadsheets/d/1QkpgUniCL1NhPObehKKKxsy-AOzFiMTKJtR8oEefrGA/edit#gid=0
 
+### 15. Check Tickets
+
   ## 1.5. IN project Activities (Software Development Process)
   
 ### 1. Daily Meeting
@@ -107,7 +109,7 @@ Examples of communication channels:
 ### 7. Client meetings
 ### 8. Stakeholders status communication
 ### 9. Client deliverables
-
+### 10. Weekley internal status update
 
 The release management process comprehends the activities to move forward the source code and features from one environment to another one.
 
@@ -117,17 +119,13 @@ New releases are created from the integration environment (main) and moved forwa
 
 The person who is reponsible to create the release is the **Product and QA Specialist**.
 
-[How to Create a Release](/how-tos/create-a-release.md)
+**HOW TO:**[How to Create a Release](/how-tos/create-a-release.md)
 
 
 ### 7. TICKET QUALITY TEST:
 
-Ticket specification is responsabilitye of the Project Manager, QA and Technical Lead.
 
-- If the Issue is estimated to be longer than 2 days, it needs to be split.
-- If the Issue doesn't have the specification completed, it needs to be completed.
-- If the Issue doesn't have the technical specification completed, it needs to be completed.
-- If the Issue requires a UI and it doesn't have it 
+
 
 
 
@@ -177,6 +175,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU2NDc2OTAsLTUyODczNjkwMSwxMj
+eyJoaXN0b3J5IjpbLTEzMDY4NjY5MDMsLTUyODczNjkwMSwxMj
 EzNjIyMDEwLDE2MDY1MDc1MzFdfQ==
 -->
