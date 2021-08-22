@@ -97,7 +97,16 @@ Examples of communication channels:
 
 **TEMPLATE:** https://docs.google.com/spreadsheets/d/1QkpgUniCL1NhPObehKKKxsy-AOzFiMTKJtR8oEefrGA/edit#gid=0
 
-### 15. Check Tickets in
+### 15. Check Tickets integrity
+
+Ticket specification is responsabilitye of the Project Manager, QA and Technical Lead.
+
+- If the Issue is estimated to be longer than 2 days, it needs to be splitted.
+- If the Issue doesn't have the specification completed, it needs to be completed.
+- If the Issue doesn't have the technical specification completed, it needs to be completed.
+- If the Issue requires a UI and it doesn't have it, it needs to be completed.
+
+It is understood that all the requirements for a Project will not be ready before the start of the project, for this, the tickets need to be labeled with the proper "need". Example: `need-customer"` `need-
 
   ## 1.5. IN project Activities (Software Development Process)
   
@@ -175,6 +184,6 @@ The complete list of conventions and agreements for codebases can be found in [h
 
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDQxNTIzNCwtMTMwNjg2NjkwMywtNT
-I4NzM2OTAxLDEyMTM2MjIwMTAsMTYwNjUwNzUzMV19
+eyJoaXN0b3J5IjpbLTYxMjYyOTUyOSwyMDk0NDE1MjM0LC01Mj
+g3MzY5MDEsMTIxMzYyMjAxMCwxNjA2NTA3NTMxXX0=
 -->
