@@ -195,13 +195,3 @@ TEMPLATE: [Project Final Delivery](/templates/project-final-delivery.md)
 # 2. Software Development Conventions:
 
 The complete list of conventions and agreements for codebases can be found in [here](https://github.com/cobuildlab/conventions)
-
-
-
-
-  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MDE1NTk1LDEwOTA4MzQzMzEsLTEzNj
-gwNTk0NzcsMTgzMTQ1MTkzMiwyMDk0NDE1MjM0LC01Mjg3MzY5
-MDEsMTIxMzYyMjAxMCwxNjA2NTA3NTMxXX0=
--->
