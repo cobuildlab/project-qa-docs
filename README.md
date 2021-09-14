@@ -161,6 +161,8 @@ The Technical leader assigned for the team must review every Pull Request to be 
 
 Is Cobuild Lab's philosophy that Testing and QA has to be a continuos process. Is the responsability of the Project Manager, in conjunction with the team to coordinate a batch of ready tickets to be delivered to the QA or STAGE environments at any point during the week.
 
+As part of the Testing and Quality Assurrance process the QA specialist needs to list the Test cases for testing the system. For this, a template is provided: https://docs.google.com/spreadsheets/d/1V1gJDRWETi8lEWzYVWM9_5ASFzVoQrcUZMeqcSLVaO0/edit#gid=0
+
 ### 6. Releases
 
 The release management process comprehends the activities to move forward the source code and features from one environment to another one.
