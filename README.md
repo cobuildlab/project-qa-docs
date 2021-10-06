@@ -128,8 +128,21 @@ Examples of communication channels:
 
 ### 14. Set the Client Feedback Spreadsheet
 
+In order to make easy the way the client provides his feedback, the project manager will do a form with the following questions:
+- Platform / App Version (required)
+- Task Name (required) (max character count 75)
+- Additional Details (Optional)
+- Related Images/Videos/Files
+- Assigned to: Cobuild team or Pending from the client (Required)
 
-**TEMPLATE:** https://docs.google.com/spreadsheets/d/1QkpgUniCL1NhPObehKKKxsy-AOzFiMTKJtR8oEefrGA/edit#gid=0
+**TEMPLATE:** https://docs.google.com/forms/d/1WAReS3xHJPPZl0ipONBN8sEGY2bbm50Rs_OjggGh5d8/edit?usp=sharing
+
+In order to do the follow up, the form resposes will be saved in the spreedsheet where the project manager will add the following fields:
+- Status: In Progress, Done, Backlogged or Icebox
+
+**TEMPLATE:** https://docs.google.com/spreadsheets/d/1SujYa381gjWRN2P4aAjJclURp7b_A6L3mypdWCnnPlk/edit?usp=sharing
+
+In every project update (meeting or email) the client should be updated of the status of the tasks that he created and when it will be done.
 
 ### 15. Check Tickets integrity
 
