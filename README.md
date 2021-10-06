@@ -128,6 +128,7 @@ Examples of communication channels:
 
 ### 14. Set the Client Feedback Spreadsheet
 
+
 **TEMPLATE:** https://docs.google.com/spreadsheets/d/1QkpgUniCL1NhPObehKKKxsy-AOzFiMTKJtR8oEefrGA/edit#gid=0
 
 ### 15. Check Tickets integrity
