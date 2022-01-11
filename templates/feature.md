@@ -32,9 +32,12 @@ COMPLEXITY VALUES: 0 1 2 3 5 8 13 21
 - [ ] 5.
 
 # Screens (optional)
+ 
+
 
  
- ## Example:
- <img width="1301" alt="Screen Shot 2022-01-11 at 10 02 25 AM" src="https://user-images.githubusercontent.com/918895/148967158-9163a037-11c1-4a70-bb9b-9a351a628ba3.png">
+## Example:
+<img width="768" alt="Screen Shot 2022-01-11 at 10 03 57 AM" src="https://user-images.githubusercontent.com/918895/148967412-41f04a65-05f2-48e0-a0fd-cc841f8b51a2.png">
 
+ 
  
