@@ -1,5 +1,6 @@
-Steps:
+How to use github as project manager and QA
+https://drive.google.com/file/d/1DwSxciivMG9SkViDWJR6zQgGvYNjct3i/view?usp=sharing
 
-
-https://user-images.githubusercontent.com/918895/151872219-97b30857-3761-4eaf-afe4-e8c7317135c9.mov
+How to create a pull requests to release  version between environments and prod.
+https://drive.google.com/file/d/16LCQ1cHUI_mju-o3mDutWWRLr-S_iLvB/view?usp=sharing
 
