@@ -35,7 +35,7 @@ Cobuild Lab uses the Kanban agile framework for the Software Development Process
 4. Automated unit testing and functional testing
 5. Planned activities can change at any time
 6. Only work in top priority items
-7. All the tasks, requirements, and issues of the projects are visible all the time in the Kanban Board.
+7. All the tasks, requirements, and issues of the projects are visible all the time in the [Kanban Board](/conventions/project-kanban.md).
 8. Automated Deployment
 9. Sprints of 1 or 2 weeks tops.
 
