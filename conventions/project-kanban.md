@@ -64,24 +64,24 @@ Example:
 
 Normally columns are not enough to fully communicate the status of an Issue (Feature or Bug), sometimes it requires additional important information that we manage with labels:
 
--  🟨 **HIGHT-PRIORITY**: For marking Issues important above all
--  🟩 **qa-reviewed**:  For issues already reviewed by a QA 
--  🟥 **bug** or **bug-<Environment Name>**: A bug or problem in one of the environments
+-  🟨 `HIGHT-PRIORITY`: For marking Issues important above all
+-  🟩 `qa-reviewed`:  For issues already reviewed by a QA 
+-  🟥 `bug` or `bug-<Environment Name>`: A bug or problem in one of the environments
 
 
--  **need-customer**: Issues that are stopped or blocked by the Customer.
--  **need-design**: For issues that require or are missing the UI Designs
--  **need-documentation**: For Issues that need to be documented in the Business Rules document
--  **need-tech-spec**: For Issues that need technical assitant or require a Technical specification
--  **need-info**: Issues that need more information, and that information is not covered by the other labels.
+-  `need-customer` : Issues that are stopped or blocked by the Customer.
+-  `need-design` : For issues that require or are missing the UI Designs
+-  `need-documentation`: For Issues that need to be documented in the Business Rules document
+-  `need-tech-spec`: For Issues that need technical assitant or require a Technical specification
+-  `need-info`: Issues that need more information, and that information is not covered by the other labels.
   
--  **customer-support**: For issues related to users’ problems.
+-  `customer-support**: For issues related to users’ problems.
 
--  **api**: Label to indicate that an Issue corresponds to the backend of the project.
--  **mobile**: Label to indicate that an Issue corresponds to the Mobile part of the project.
--  **web**: Label to indicate that an Issue corresponds to the Web part of the project.
--  **website**: Label to indicate that an Issue corresponds to the Website part of the project.
+-  `api`: Label to indicate that an Issue corresponds to the backend of the project.
+-  `mobile`: Label to indicate that an Issue corresponds to the Mobile part of the project.
+-  `web`: Label to indicate that an Issue corresponds to the Web part of the project.
+-  `website`: Label to indicate that an Issue corresponds to the Website part of the project.
   
-  - **feedback-<>**: 
+  - `feedback-<>`: `DOCUMENTATION PENDING`
 
 
