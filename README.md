@@ -64,7 +64,7 @@ Convention Link: [Project Folder Structure](/conventions/project-folder-structur
 ### 3. Setup GitHub 
 
 - Create the code repositories under the [repositories naming convention](/conventions/repository-name.md)
-- Set up the Kanban project with the [Kanban Project Conventions](/conventions/github-project-kanban.md). The Project Kanban is created in the main repository of the project, the WEB for web projects and the MOBILE for Mobile applications.
+- Set up the Kanban project with the [Kanban Project Conventions](/conventions/project-kanban.md). The Project Kanban is created in the main repository of the project, the WEB for web projects and the MOBILE for Mobile applications.
 - Create a GitHub Team, and add all the participants to the Team. [See How](/how-tos/github-team-management.md)
  
 ### 4. Provisioning: 
