@@ -75,7 +75,7 @@ Normally columns are not enough to fully communicate the status of an Issue (Fea
 -  `need-tech-spec`: For Issues that need technical assitant or require a Technical specification
 -  `need-info`: Issues that need more information, and that information is not covered by the other labels.
   
--  `customer-support**: For issues related to users’ problems.
+-  `customer-support`: For issues related to users’ problems.
 
 -  `api`: Label to indicate that an Issue corresponds to the backend of the project.
 -  `mobile`: Label to indicate that an Issue corresponds to the Mobile part of the project.
