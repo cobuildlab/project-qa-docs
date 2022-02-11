@@ -19,14 +19,6 @@ Information to follow for the Process of Project Management in Cobuild Lab:
 
 Cobuild Lab uses the Kanban agile framework for the Software Development Process.  For more information on the framework, please [READ THIS](https://www.atlassian.com/agile/kanban)
 
-### Preferred Tooling:
-
-1. Typescript and Python
-2. ReactJs and React Native
-3. 8base and AWS
-4. GitHub, Buddy Works, and Slack
-5. ESLINT and Husky
-
 ### Project Management Keys
 
 1. Real-time communication and high availability is necessary
@@ -142,7 +134,17 @@ Ticket specification is responsibility of the Project Manager, QA and Technical 
 It is understood that all the requirements for a Project will not be ready before the start of the project, for this, the tickets need to be labeled with the proper "need". Example: `need-customer"` `need-desing` `need-techincal-specification`
 
   ## 1.5. IN project Activities (Software Development Process)
-  
+
+### 0. Project Complexity
+
+Is a subjective measure to communicate how complex is the project on development, testing, and requirements activities.
+
+- This information will be recorded on the SIZE column of the **PROJECT MASTER SHEET**
+- Possible values could be, in increasing order of complexity: **0,1,2,3,5,8**
+- For determining the value of a project, members of the project can vote using the numerical values and use the Average or Median
+- This value is relevant for measuring the amount of work that the team members are handling, and the relative speed given an specific amount of developers
+- Is responsability of the **PROJECT MANAGER** to keep these numbers up to date for the **WEEKLY SCRUM COUNCIL**
+
 ### 1. Daily Meeting
 
 This is the meeting that needs to be celebrated every day to sync the team, clarify the work in scope (the TODO column in the Kanban) and make sure that everybody understand the pending tickets.
