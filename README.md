@@ -77,9 +77,30 @@ Using the GitHub bot installed in the Cobuild Lab Slack Workspace, subscribe all
 
 Reference: [https://slack.github.com/](https://slack.github.com/)
 
-### 8. The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and deliverables.
+### 8. Project Scope and Initial/OnGoing Documentation
+
+The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and plan deliverables.
+
+**VALUES:**
+- Lean Documentation
+- Deep Documentation on Demand
+- If we are gonna have documentation, it needs to be well organized, using the agreed tools and easy to index
+- Flexible Dates / Fixed Milestones
+
+** TO START THE PROJECT, WE NEED a MINIMAL VERSION TO SATISFY:**
+
+* User Roles or Permissions
+* Navigation Diagram
+* Modules Diagram
+* User Stories
+* Initial Datamodel
+* Business Rules
+* UI and Screens
+* INTRO VIDEO
+
 
 The Project Management team: Project Manager and Product Manager or QA, must ensure that the full scope of the project is shared with the whole team for be revised, and a Planning meeting must be set to define dated Milestones for the project. 
+
 
 ### 9. Communicate Milestones in GitHub Project Kanban and Milestones Document
 
