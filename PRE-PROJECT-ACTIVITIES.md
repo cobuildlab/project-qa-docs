@@ -56,7 +56,7 @@ The full scope of the project must be shared with the Development Team to create
 
 We need a Visual representation of the different logical parts of the system, and how they are organized and linked to each other.
 
-Template: <TODO>
+[Template](./templates/modules-diagram.md)
 
 #### 6.2 Project Plan on a Kanban Board:
 
