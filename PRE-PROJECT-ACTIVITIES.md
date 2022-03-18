@@ -84,7 +84,15 @@ We need a document that indicates the navigation strategy on the Web or Mobile A
 
 [Example](./navigation-diagram.md)
 
-#### User Stories
+#### Platform Features
+
+To start a project we need a reasonable amoount of features to communicate the requirements for the project. Fpr Cobuild Lab, each Feature corresponds to an Issue ticket, this means that an issue ticket (Feature) can have multiple User Stories.
+
+[Template](./template/feature.md)
+
+
+
+
 #### Initial Datamodel
 #### Business Rules
 #### UI and Screens
