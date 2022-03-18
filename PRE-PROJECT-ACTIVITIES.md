@@ -43,6 +43,8 @@ Reference: [https://slack.github.com/](https://slack.github.com/)
 
 The full scope of the project must be shared with the Development Team to create an Execution Plan with milestones and plan deliverables.
 
+The Project Management team: Project Manager and Product Manager or QA, must ensure that the full scope of the project is shared with the whole team for be revised, and a Planning meeting must be set to define dated Milestones for the project. 
+
 **VALUES:**
 
 - Lean Documentation
@@ -90,16 +92,13 @@ To start a project we need a reasonable amoount of features to communicate the r
 
 [Template](./template/feature.md)
 
-
-
-
 #### Initial Datamodel
 #### Business Rules
 #### UI and Screens
 #### INTRO VIDEO
 
 
-The Project Management team: Project Manager and Product Manager or QA, must ensure that the full scope of the project is shared with the whole team for be revised, and a Planning meeting must be set to define dated Milestones for the project. 
+
 
 
 ### 7. Communicate Milestones in GitHub Project Kanban and Milestones Document
