@@ -56,7 +56,7 @@ The full scope of the project must be shared with the Development Team to create
 
 We need a Visual representation of the different logical parts of the system, and how they are organized and linked to each other.
 
-[Template](./templates/modules-diagram.md)
+[Example](./examples/modules-diagram.md)
 
 #### 6.2 Project Plan on a Kanban Board:
 
@@ -72,11 +72,13 @@ The Kanban needs to provide enough information to answer the following:
 
  We need a document that specifies what can and cannot do each role on the platform in each module:
  
- Template:
-
- 
+[Template](https://docs.google.com/spreadsheets/d/1oEPdJdY3wpARI9qGikR56i0kUbFVLwUFAhSL0IRJo54/edit#gid=0)
  
 #### Navigation Diagram
+
+We need a document that indicates the navigation strategy on the Web or Mobile App.
+
+
 #### User Stories
 #### Initial Datamodel
 #### Business Rules
