@@ -70,14 +70,19 @@ The Kanban needs to provide enough information to answer the following:
 
 #### 6.3 User Roles or Permissions
 
- We need a document that specifies what can and cannot do each role on the platform in each module:
+ We need a document that specifies what can and cannot do each role on the platform in each module and submodule:
  
 [Template](https://docs.google.com/spreadsheets/d/1oEPdJdY3wpARI9qGikR56i0kUbFVLwUFAhSL0IRJo54/edit#gid=0)
  
 #### Navigation Diagram
 
-We need a document that indicates the navigation strategy on the Web or Mobile App.
+We need a document that indicates the navigation strategy on the Web or Mobile App. This document needs to answer:
 
+- We must have all the possible screen on the system, including modal windows and dialogs
+- Per screen, indicate which role can access the screen
+- Must have a hirarchical structure to represent the main levels or navigation (Primary navigation)
+
+[Example](./navigation-diagram.md)
 
 #### User Stories
 #### Initial Datamodel
