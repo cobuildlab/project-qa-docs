@@ -29,17 +29,17 @@ Here is the most recent update on your project:
 
 **OPEN ITEMS:**
 
-  These are the items that require our attention, specialy the ones labeled as **BLOCKER**
+  These are the items that require our attention, specially the ones labeled as **BLOCKER**
 
 - <Module>: <Feature Name>: <Status>
 - Dashboard: Authentication with Facebook: Currently we are limited to authentication with verified accounts until we release to production.
 - Mobile App: Video Introduction: We require the video for the Home screen to complete this. **BLOCKER**
 - API: Import Performance: Developers have made some improvements, but we are still experience some slowliness in the process.
-- **UI/UX updates**: Attached is the file with the lastes changes to the UI to be approved. 
+- **UI/UX updates**: Attached is the file with the latest changes to the UI to be approved. 
 - **New Milestones**: Attached is the file with the new dates for the upcoming releases.
-- **Stripe Account**: We are using a Stripe Account that we created and set. Best thing to move forward will be to trasnferm this account to the client
+- **Stripe Account**: We are using a Stripe Account that we created and set. Best thing to move forward will be to transfer this account to the client
 - **Plans and Pricing**: We need to understand how the client will charge for the use of the platform. Per use, per seat, per license, etc. 
-- **Privacy Policy and Terms and Conditions**: We need the client to provide this 2 documents for the web application.
+- **Privacy Policy and Terms and Conditions**: We need the client to provide these 2 documents for the web application.
 - **Domain**: We need a domain to be able to deploy the application correctly.
 
 **TESTING ITEMS:** 
